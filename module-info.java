@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author arpita
+ *
+ */
+module InsideEclipse {
+}
